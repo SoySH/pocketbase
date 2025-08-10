@@ -13,7 +13,7 @@ Asegúrate de tener el archivo pocketbase-80.x
 **Dale permisos de ejecución:
 chmod +x pocketbase-80.x
 
-**Ejecutar el script:
+Ejecutar el script:
 ./pocketbase-80.x
 
 **Seleccionar la opción de instalación:
@@ -41,7 +41,8 @@ Después de crear el perfil del super-usuario, presiona ENTER en el script para 
 **El script mostrará una URL como la siguiente:
 
 Accede en http://10.0.0.15/
-Volver al menú de instalación/desinstalación:
+
+**Volver al menú de instalación/desinstalación:
 
 Da el último ENTER para regresar al menú de instalación o desinstalación de PocketBase.
 
